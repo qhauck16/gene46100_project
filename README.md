@@ -12,4 +12,4 @@ Splice Factor Mutant Classifications come from [Seiler et al](10.1016/j.celrep.2
 NMF factors and loadings were generated using [Fasttopics](https://cran.r-project.org/web/packages/fastTopics/index.html) from [Carbonetto et al](https://doi.org/10.48550/arXiv.2105.13440).
 
 
-This model was submitted for the final project for GENE 41600 at The University of Chicago, Spring 2025
+This model was submitted for the final project for GENE 46100 at The University of Chicago, Spring 2025
